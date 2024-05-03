@@ -39,8 +39,3 @@ me to make a significant impact
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-nul?style=flat-square&logo=vercel&color=black)
-
-## Stats
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=texelh4ck&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
