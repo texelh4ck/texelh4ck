@@ -31,11 +31,9 @@ me to make a significant impact
 ![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
 ![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
-![](https://img.shields.io/badge/Blender-h?style=flat-square&logo=blender&color=%23265787&link=https%3A%2F%2Fwww.blender.org
-)
+![](https://img.shields.io/badge/Blender-h?style=flat-square&logo=blender&color=%23265787&link=https%3A%2F%2Fwww.blender.org)
 
 ## Deploy
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-nul?style=flat-square&logo=vercel&color=black)
